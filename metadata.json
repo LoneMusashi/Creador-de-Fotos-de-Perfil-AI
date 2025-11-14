@@ -1,0 +1,5 @@
+{
+  "name": "Creador de Fotos de Perfil AI",
+  "description": "Una aplicación para generar fotos de perfil profesionales para LinkedIn usando IA. Sube una foto, describe el estilo que quieres y obtén múltiples opciones para elegir.",
+  "requestFramePermissions": []
+}
